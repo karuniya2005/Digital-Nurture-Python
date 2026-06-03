@@ -521,28 +521,3 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 
 ---
-
-# Technologies Used
-
-- Python 3
-- Jupyter Notebook
-- VS Code
-- JSON
-- CSV
-- Requests
-- Statistics
-- ConfigParser
-- Datetime
-- Math Module
-- Matplotlib
-- OOP Concepts
-
----
-
-# Author
-
-**KARUNIYA M**
-
-B.Tech AIML
-
-Saveetha Engineering College
