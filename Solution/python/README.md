@@ -541,7 +541,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 # Author
 
-**Vishal S**
+**KARUNIYA M**
 
-B.E. CSE (IoT)  
+B.Tech AIML
+
 Saveetha Engineering College
